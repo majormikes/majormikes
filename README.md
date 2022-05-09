@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @majormikes
+- 🌱 I’m currently learning web development
